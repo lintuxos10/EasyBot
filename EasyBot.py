@@ -1,4 +1,4 @@
-#EasyBot
+#EasyBot 1.0
 #By lintuxos
 
 try:
